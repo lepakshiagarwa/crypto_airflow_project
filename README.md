@@ -22,3 +22,7 @@ airflow webserver
 ## DAG
 
 fetch_btc_price: Gets Bitcoin price and appends to data/btc_prices.csv
+
+##what's next?
+
+DAG to directly write to postgreSQL and dbt for analysis ready data.
